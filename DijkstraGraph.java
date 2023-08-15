@@ -1,11 +1,3 @@
-// --== CS400 Spring 2023 File Header Information ==--
-// Name: Punnawish Thuwajit
-// Email: thuwajt@wisc.edu
-// Team: DH red
-// TA: Callie Kim
-// Lecturer: Florian Heimerl
-// Notes to Grader: <optional extra notes>
-
 import java.util.PriorityQueue;
 import java.util.Hashtable;
 import java.util.List;
