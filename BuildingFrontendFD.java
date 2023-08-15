@@ -1,9 +1,6 @@
-// --== CS400 File Header Information ==--
-// Name: Ark Dutt
-// Email: dutt3@wisc.edu
-// Group and Team: DH
-// Group TA: Callie
-// Lecturer: Florian Heimerl
+/**
+* @author Ark Dutt
+*/
 
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
